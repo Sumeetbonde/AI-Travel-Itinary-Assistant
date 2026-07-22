@@ -1,0 +1,14 @@
+langchain
+transformers
+torch
+accelerate
+chromadb
+pymupdf
+fastapi
+streamlit
+uvicorn
+python-dotenv
+requests
+langchain-community
+langchain-google-genai
+python-multipart
