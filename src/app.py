@@ -71,7 +71,7 @@ with st.sidebar:
 st.subheader("❓ Ask Your Question")
 
 query = st.text_input(
-    "Enter your travel question (e.g., Best places to visit in Paris):"
+    "Example: Plan a 4-day Goa trip under ₹20,000 with hotels, transport & daily itinerary based on pdf you uploaded"
 )
 
 if st.button("Ask"):
