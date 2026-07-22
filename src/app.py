@@ -68,7 +68,7 @@ with st.sidebar:
                 st.error(f"Could not reach backend at {FASTAPI_URL}: {exc}")
 
 # Main content
-st.subheader("❓ Ask Your Question")
+st.subheader("✈️ Plan Your Perfect Trip")
 
 query = st.text_input(
     "Example: Plan a 4-day Goa trip under ₹20,000 with hotels, transport & daily itinerary based on pdf you uploaded"
